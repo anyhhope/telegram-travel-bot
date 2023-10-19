@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "header": "Выходные на Терском берегу",
+        "description": "Этнотур на Кольский полуостров",
+        "link": "https://www.russiadiscovery.ru/tours/kolsky-poluostrov-vyhodnye-na-terskom-beregu/",
+        "price": "от 57 500 руб."
+    },
+    {
+        "id": 2,
+        "header": "Кавказский путь",
+        "description": "Северная Осетия, Ингушетия, Чечня и Дагестан",
+        "link": "https://www.russiadiscovery.ru/tours/kavkaz-obzorny-tur-na-kavkaz/",
+        "price": "от 89 000 руб."
+    },
+    {
+        "id": 3,
+        "header": "Чухломские терема",
+        "description": "Джип-тур в Асташово с катанием на квадроциклах",
+        "link": "https://www.russiadiscovery.ru/tours/chukhlomskie-terema/",
+        "price": "от 57 000 руб."
+    },
+    {
+        "id": 4,
+        "header": "Антарктическое лето",
+        "description": "VIP-круиз в Антарктиду на новых лайнерах SH Vega и SH Diana",
+        "link": "https://www.russiadiscovery.ru/tours/antarktida-antarktida-i-uyzhnye-shetlandskije-ostrova/",
+        "price": "от 8 469 USD"
+    },
+    {
+        "id": 5,
+        "header": "На поиски китов",
+        "description": "Зимний тур в Териберку",
+        "link": "https://www.russiadiscovery.ru/tours/kolskiy-poluostrov-zimnyaya-teriberka/",
+        "price": "от 52 500 руб."
+    },
+    {
+        "id": 6,
+        "header": "В поисках северного сияния",
+        "description": "Тур в Териберку на выходные",
+        "link": "https://www.russiadiscovery.ru/tours/kolskiy-poluostrov-okhota-za-severnym-siyaniem/",
+        "price": "от 63 900 руб."
+    },
+    {
+        "id": 7,
+        "header": "Экспедиция на полюс холода",
+        "description": "Этнотур в Якутию",
+        "link": "https://www.russiadiscovery.ru/tours/ekspeditsiya-na-polyus-kholoda/",
+        "price": "от 135 000 руб."
+    },
+    {
+        "id": 8,
+        "header": "Лесная сказка",
+        "description": "Семейный праздничный тур в Карелию",
+        "link": "https://www.russiadiscovery.ru/tours/bolshoe-novogodnee-priklyuchenie/",
+        "price": "от 58 900 руб."
+    },
+    {
+        "id": 9,
+        "header": "По заснеженному Лекшмозерью",
+        "description": "Лыжные прогулки по Архангельской области",
+        "link": "https://www.russiadiscovery.ru/tours/po-zasnezhennomu-lekshmozeryu/",
+        "price": "от 45 000 руб."
+    },
+    {
+        "id": 10,
+        "header": "Новогодняя Адыгея",
+        "description": "Джиппинг и экстрим-парк",
+        "link": "https://www.russiadiscovery.ru/tours/adygea-novyi-den-v-adygee/",
+        "price": "от 59 000 руб."
+    },
+    {
+        "id": 11,
+        "header": "Новый год на Байкале",
+        "description": "Тур с праздничной программой",
+        "link": "https://www.russiadiscovery.ru/tours/novogodnie-kanikuly-na-baykale/",
+        "price": "от 95 500 руб."
+    },
+    {
+        "id": 12,
+        "header": "Таежный Новый год",
+        "description": "Активный тур в Карелию на праздники",
+        "link": "https://www.russiadiscovery.ru/tours/karelia-taezhnyje-priklucheniya/",
+        "price": "от 49 900 руб."
+    },
+    {
+        "id": 13,
+        "header": "Чудесный остров",
+        "description": "Зимний тур в глэмпинг на Ладоге",
+        "link": "https://www.russiadiscovery.ru/tours/karelia-chudesny-ostrov/",
+        "price": "от 79 500 руб."
+    },
+    {
+        "id": 14,
+        "header": "Ледовый экспресс",
+        "description": "Зимний тур на Байкал",
+        "link": "https://www.russiadiscovery.ru/tours/baikal-baikalskiy-ekspress/",
+        "price": "от 79 980 руб."
+    },
+    {
+        "id": 15,
+        "header": "Байкальский лед",
+        "description": "Самый популярный тур на Байкал зимой",
+        "link": "https://www.russiadiscovery.ru/tours/baykalskiy-led-tour-na-baykal-zimoy/",
+        "price": "от 99 980 руб."
+    },
+    {
+        "id": 16,
+        "header": "Наблюдение за бельками",
+        "description": "Путешествие в нацпарк «Онежское Поморье»",
+        "link": "https://www.russiadiscovery.ru/tours/nablyudenie-za-belkami/",
+        "price": "от 325 000 руб."
+    },
+    {
+        "id": 17,
+        "header": "На вершине России",
+        "description": "Восхождение на Эльбрус с юга",
+        "link": "https://www.russiadiscovery.ru/tours/voskhozhdenie-na-elbrus-s-yuga/",
+        "price": "от 83 300 руб."
+    },
+    {
+        "id": 18,
+        "header": "На ледоколе к вершине планеты",
+        "description": "Тур на Северный полюс в 2024 году",
+        "link": "https://www.russiadiscovery.ru/tours/severnyy-polyus-na-ledokole-k-vershine-planety-2017/",
+        "price": "от 2 507 620 руб."
+    },
+    {
+        "id": 19,
+        "header": "Острова вулканов",
+        "description": "Мультиактивный круиз по островам Курильской гряды",
+        "link": "https://www.russiadiscovery.ru/tours/kueilskie-ostrova-ostrova-vulkanov/",
+        "price": "от 715 000 руб."
+    },
+    {
+        "id": 20,
+        "header": "Архипелаг открытий",
+        "description": "Экспедиция на Шантары",
+        "link": "https://www.russiadiscovery.ru/tours/ekspeditsiya-na-shantarskie-ostrova/",
+        "price": "от 270 750 руб."
+    },
+    {
+        "id": 21,
+        "header": "Классическая Камчатка",
+        "description": "Вулканы Мутновский, Горелый и Толбачик",
+        "link": "https://www.russiadiscovery.ru/tours/klassicheskaya-kamchatka/",
+        "price": "от 160 550 руб."
+    },
+    {
+        "id": 22,
+        "header": "В горах Архыза",
+        "description": "Треккинг в Карачаево-Черкесии",
+        "link": "https://www.russiadiscovery.ru/tours/arkhyz-v-gorah-arkhyza/",
+        "price": "от 56 000 руб."
+    },
+    {
+        "id": 23,
+        "header": "Камчатка в межсезонье",
+        "description": "Треккинг, экскурсии и купание в горячих источниках",
+        "link": "https://www.russiadiscovery.ru/tours/kamchatka-znakomstvo-s-kamchatkoj/",
+        "price": "от 91 000 руб."
+    },
+    {
+        "id": 24,
+        "header": "5 дней в Дагестане",
+        "description": "Обзорный тур на Кавказ",
+        "link": "https://www.russiadiscovery.ru/tours/dagestan-5-dnej-v-dagestane/",
+        "price": "от 39 500 руб."
+    },
+    {
+        "id": 25,
+        "header": "Морские приключения в Териберке",
+        "description": "Фридайвинг и прогулка на катере на Кольском полуострове",
+        "link": "https://www.russiadiscovery.ru/tours/kolskiy-poluostrov-morskie-priklyucheniya-v-Teriberke/",
+        "price": "от 49 500 руб."
+    },
+    {
+        "id": 26,
+        "header": "Балтийский трек",
+        "description": "Велотур на выходные",
+        "link": "https://www.russiadiscovery.ru/tours/kaliningradskaya-oblast-baltiyskiy-trek/",
+        "price": "от 39 900 руб."
+    },
+    {
+        "id": 27,
+        "header": "На высоте орлов",
+        "description": "Треккинг в горах Дагестана",
+        "link": "https://www.russiadiscovery.ru/tours/dagestan-na-vysote-orlov/",
+        "price": "от 89 000 руб."
+    },
+    {
+        "id": 28,
+        "header": "Вкусы Балтики",
+        "description": "Гастрономический тур по Калининграду и области",
+        "link": "https://www.russiadiscovery.ru/tours/kaliningradskaya-oblast-vkusy-baltiki/",
+        "price": "от 49 900 руб."
+    },
+    {
+        "id": 29,
+        "header": "Выходные в Красноярске",
+        "description": "Треккинг к Красноярским Столбам, экскурсии и прогулка на катере",
+        "link": "https://www.russiadiscovery.ru/tours/sibir-vykhodnye-v-krasnoyarske/",
+        "price": "от 45 000 руб."
+    },
+    {
+        "id": 30,
+        "header": "Страна гор и загадок: осень",
+        "description": "Иммерсивный тур в Дагестан на 3 дня",
+        "link": "https://www.russiadiscovery.ru/tours/dagestan-strana-gor-i-zagadok-osen/",
+        "price": "от 33 500 руб."
+    },
+    {
+        "id": 31,
+        "header": "Уикенд на конной ферме",
+        "description": "Тур в Сочинский нацпарк",
+        "link": "https://www.russiadiscovery.ru/tours/kavkaz-otdykh-na-konnoy-ferme/",
+        "price": "от 35 000 руб."
+    },
+    {
+        "id": 32,
+        "header": "Офф-роуд на Балтике",
+        "description": "Катание на квадроциклах в Калининградской области",
+        "link": "https://www.russiadiscovery.ru/tours/kaliningradskaya-oblast-off-roud-na-baltike/",
+        "price": "от 49 900 руб."
+    },
+    {
+        "id": 33,
+        "header": "Старт на Байконуре",
+        "description": "Тур на запуск космического корабля",
+        "link": "https://www.russiadiscovery.ru/tours/baikonur-kosmodrom-baikonur/",
+        "price": "от 240 000 руб."
+    },
+    {
+        "id": 34,
+        "header": "5 дней на Алтае: зима",
+        "description": "Обзорный тур с комфортным размещением",
+        "link": "https://www.russiadiscovery.ru/tours/altai-5-dnej-na-altae-zima/",
+        "price": "от 49 000 руб."
+    },
+    {
+        "id": 35,
+        "header": "Откуда приходит зима",
+        "description": "Тур в Оймяконскую долину",
+        "link": "https://www.russiadiscovery.ru/tours/yakutiya-oimyakon-polyus-holoda/",
+        "price": "от 115 000 руб."
+    },
+    {
+        "id": 36,
+        "header": "Новый год на Белом континенте",
+        "description": "VIP-круиз в Антарктиду на лайнерах SH Vega и SH Diana",
+        "link": "https://www.russiadiscovery.ru/tours/antarktida-novyj-god-na-krayu-zemli/",
+        "price": "от 10 070 USD"
+    },
+    {
+        "id": 37,
+        "header": "Новогодний форсаж",
+        "description": "Праздничный тур на Кольский на снегоходах",
+        "link": "https://www.russiadiscovery.ru/tours/kolskiy-poluostrov-novogodniy-forsazh/",
+        "price": "от 102 500 руб."
+    },
+    {
+        "id": 38,
+        "header": "Подарок Севера",
+        "description": "Новогоднее путешествие на Ямал",
+        "link": "https://www.russiadiscovery.ru/tours/yamal-chumovoi-novyi-god/",
+        "price": "от 76 500 руб."
+    },
+    {
+        "id": 39,
+        "header": "Новый год на стыке эпох",
+        "description": "Обзорный тур в Чечню и Дагестан",
+        "link": "https://www.russiadiscovery.ru/tours/kavkaz-zimniy-tur-v-chechnyu-i-dagestan/",
+        "price": "от 59 000 руб."
+    },
+    {
+        "id": 40,
+        "header": "Зимний Дагестан",
+        "description": "Обзорный тур на новогодние выходные",
+        "link": "https://www.russiadiscovery.ru/tours/dagestan-novogodnie-vyhodnye/",
+        "price": "от 45 000 руб."
+    },
+    {
+        "id": 41,
+        "header": "По склонам Западного Кавказа",
+        "description": "Горнолыжный тур в Архыз",
+        "link": "https://www.russiadiscovery.ru/tours/arkhyz-zimniy-tur-v-arhyz/",
+        "price": "от 41 200 руб."
+    },
+    {
+        "id": 42,
+        "header": "По Колымскому тракту",
+        "description": "Тур из Якутска в Магадан",
+        "link": "https://www.russiadiscovery.ru/tours/yakutiya-po-kolymskomu-tractu/",
+        "price": "от 195 000 руб."
+    },
+    {
+        "id": 43,
+        "header": "Путешествие в Дигорию",
+        "description": "Тур в Северную Осетию на выходные",
+        "link": "https://www.russiadiscovery.ru/tours/kavkaz-volshebnaja-digorija/",
+        "price": "от 32 600 руб."
+    },
+    {
+        "id": 44,
+        "header": "Вкусы Карелии",
+        "description": "Гастрономический тур с проживанием в глэмпинге",
+        "link": "https://www.russiadiscovery.ru/tours/karelia-vkusy-ladogi/",
+        "price": "от 52 500 руб."
+    },
+    {
+        "id": 45,
+        "header": "Дорогами Карелии",
+        "description": "Тур на квадроциклах",
+        "link": "https://www.russiadiscovery.ru/tours/kareliya-po-lesnim-dorogam/",
+        "price": "от 50 000 руб."
+    },
+    {
+        "id": 46,
+        "header": "Осенние каникулы в горах",
+        "description": "Семейный тур в Адыгею",
+        "link": "https://www.russiadiscovery.ru/tours/adygeya-osennie-kanikuly-v-gorah/",
+        "price": "от 55 000 руб."
+    },
+    {
+        "id": 47,
+        "header": "Между водопадами и морем",
+        "description": "Конный тур в Краснодарском крае",
+        "link": "https://www.russiadiscovery.ru/tours/kavkaz-konnyi-tur-v-sochi-10-dnei/",
+        "price": "от 63 000 руб."
+    },
+    {
+        "id": 48,
+        "header": "Энергия Адыгеи",
+        "description": "Мультиактивный и гастрономический тур",
+        "link": "https://www.russiadiscovery.ru/tours/adygea-aktivnaya-nedelya-v-adygee/",
+        "price": "от 49 900 руб."
+    }
+]
