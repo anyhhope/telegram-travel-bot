@@ -1,7 +1,7 @@
 import asyncio
 import logging
 import sys
-from aiogram import Bot, Dispatcher, types
+from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 from handlers import setup_routers
 
